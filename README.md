@@ -23,7 +23,7 @@ Atualmente sou **Desenvolvedor Front-End**, apaixonado por transformar ideias em
 
 ### 🧠 Stack Atual
 
-💾 HTML5 | CSS3 | JavaScript | Bootstrap | TailwindCSS
+💾 HTML5 | CSS3 | JavaScript | Bootstrap | TailwindCSS  
 🕹 C | C++ (Programação Competitiva)  
 🎨 Figma | Git | Visual Studio Code  
 
