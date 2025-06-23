@@ -1,58 +1,123 @@
 
-<h1 align="center">Jackson de Oliveira ☕</h1>
+<h1 align="center">Portfólio | Letrista</h1>
+<p align="center">
+  <b>My Web Space</b> • Front-End 💻 • UI/UX 🎨 • Coffee ☕
+</p>
+
+---
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="https://github.com/letrista/portfolio/blob/main/portfolio4github/public/img/portfolio-fullpreview.png" alt="Preview do Portfólio" width="700"/>
+</p>
+
+---
+
+## 🧠 Sobre o Projeto
+
+Este é o repositório do meu **portfólio pessoal**, onde compartilho meus projetos, habilidades e experiências como desenvolvedor Front-End.
+
+Construído do zero, com um design minimalista, elegante e dark mode nativo.  
+
+Possui também um **painel administrativo protegido**, onde posso gerenciar posts do blog de forma dinâmica, utilizando **Firebase Auth + Firestore**.
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+- 🧠 **HTML5**  
+- 🎨 **Tailwind CSS**  
+- ⚙️ **JavaScript (ES6)**  
+- 🔥 **Firebase Hosting** (deploy)  
+- 🔐 **Firebase Auth** (autenticação do painel admin)  
+- 📦 **Firestore Database** (armazenamento dos posts do blog)  
+
+---
+
+## 🗂️ Estrutura do Projeto
+
+```
+public/
+├── index.html          # Página principal
+├── projetos.html       # Página de projetos
+├── blog.html           # Página que indexa os posts dinâmicos
+├── post.html           # Página que carrega blogs dinamicamente
+├── contato.html        # Página de contato
+├── admin.html
+├── admin/              # Painel administrativo protegido
+│   ├── index.html
+│   └── main.js
+├── js/                 # Scripts globais
+│   └── main.js
+├── img/                # Imagens, favicon, etc.
+│   └── foto.png
+│   └── logo.png
+│   └── netflix-fullpreview.png
+│   └── netflix-preview.png
+│   └── portfolio-fullpreview.png
+│   └── portfolio-preview.png
+└── firebase.json       # Configuração de deploy
+└── .gitignore
+└── .firebaserc
+
+```
+
+---
+
+## 🔐 Painel Admin
+
+- Login protegido via **Firebase Authentication** (somente meu UID autorizado).  
+- CRUD completo dos posts do blog, em tempo real com **Firestore**.  
+- Interface responsiva, clean e otimizada para produtividade.
+
+---
+
+## 🛠️ Como Rodar Localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/letristadev/portfolio.git
+cd portfolio
+```
+
+2. Abra o arquivo `index.html` no navegador, ou utilize uma extensão como **Live Server** no VSCode.
+
+3. Para testes com Firebase (Admin funcionando localmente), configure suas credenciais no arquivo `main.js` dentro da pasta `/admin`.
+
+---
+
+## ☁️ Deploy
+
+Este portfólio está hospedado via **Firebase Hosting**:  
+🔗 **https://letristadev.web.app**
+
+---
+
+## 💡 Funcionalidades
+
+- 🌑 Dark Mode nativo  
+- 🖼️ Animações leves e interações modernas  
+- ✍️ Blog dinâmico  
+- 🔒 Painel admin seguro (Firebase Auth)  
+- 🔥 Firestore Database em tempo real  
+- 🧠 Design minimalista e responsivo  
+
+---
+
+## 🧠 Autor
+
+<h3 align="center">Jackson de Oliveira ☕</h3>
 <p align="center">
   <b>AKA Letrista</b> • Front-End Developer 💻 • Campinas, SP 🇧🇷
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coffee%20Lover-%23e3c09c?style=flat&logo=buymeacoffee&logoColor=black" alt="coffee" />
-  <img src="https://img.shields.io/badge/Competitive%20Programmer-%2300599C?style=flat&logo=c&logoColor=white" alt="competitive programming" />
-  <img src="https://img.shields.io/badge/Code%20like%20a%20Ghost-%23191919?style=flat&logo=ghost&logoColor=white" alt="ghost style" />
+  <a href="https://github.com/letrista">GitHub</a> • 
+  <a href="mailto:jacksonndeoliveira@gmail.com">Email</a> • 
+  <a href="https://letristadev.web.app">Portfolio</a>
 </p>
-
----
-
-### 🎩 Sobre Mim
-
-Sou Jackson de Oliveira, também conhecido como **Letrista**.  
-Tenho quase 3 anos de experiência desenvolvendo **interfaces modernas, responsivas e funcionais**, sempre com foco na usabilidade e na eficiência.  
-Atualmente sou **Desenvolvedor Front-End**, apaixonado por transformar ideias em experiências digitais intuitivas.
-
----
-
-### 🧠 Stack Atual
-
-💾 HTML5 | CSS3 | JavaScript | Bootstrap  
-🕹 C | C++ (Programação Competitiva)  
-🎨 Figma | Git | Visual Studio Code  
-
-#### 🚀 Em Evolução:
-- ReactJS (componentização, hooks, SPA)
-- Design UI/UX e microinterações
-
----
-
-### 🛰️ Projetos em Construção
-
-- Redesign Netflix *(publicado, em breve melhorado!)*
-- Portfólio pessoal com showcase de projetos (WIP)
-- Sistema solar em C++ com OpenGL ☀️🪐
-
-> GitHub novo, mas com muito código na bagagem — fique de olho! 👀
-
----
-
-### 🧠 Extras 
-
-- ☕ **Viciado em café**
-- 💡 **Expert em programação competitiva usando C++**
-- 🧑‍🎨 Estudante de UI, UX e novas formas de interações digitais
-
----
-
-### 📫 Fale Comigo
-
-[![Email](https://img.shields.io/badge/E--mail-jacksonndeoliveira@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jacksonndeoliveira@gmail.com)
 
 ---
 
