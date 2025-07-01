@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://letristadev.web.app" target="_blank">Jackson de Oliveira ☕</a>
 </h1>
+
 <p align="center">
   <b>AKA Letrista</b> • Front-End Developer 💻 • Campinas, SP 🇧🇷
 </p>
@@ -15,39 +16,53 @@
 
 ### 🎩 Sobre Mim
 
-Sou Jackson de Oliveira, também conhecido como **Letrista**.  
-Tenho quase 3 anos de experiência desenvolvendo **interfaces modernas, responsivas e funcionais**, sempre com foco na usabilidade e na eficiência.  
-Atualmente sou **Desenvolvedor Front-End**, apaixonado por transformar ideias em experiências digitais intuitivas.
+Sou **Jackson de Oliveira**, também conhecido como **Letrista**.  
+Desenvolvedor Front-End com quase 3 anos de estudo, focado em **interfaces modernas, responsivas e funcionais**.  
+Apaixonado por performance, minimalismo e experiências digitais que realmente fazem sentido.
 
 ---
 
-### 🧠 Stack Atual
+### ⚙️ Stack Atual
 
-💾 HTML5 | CSS3 | JavaScript | Bootstrap | TailwindCSS  
-🕹 C | C++ (Programação Competitiva)  
-🎨 Figma | Git | Visual Studio Code  
+💾 HTML5 | CSS3 | JavaScript  
+🎨 TailwindCSS | Bootstrap | Figma  
+🧠 Git | VSCode  
+🧮 C | C++ (Programação Competitiva)
 
-#### 🚀 Em Evolução:
-- ReactJS (componentização, hooks, SPA)
-- Design UI/UX e interações
+#### 🧪 Em Evolução:
 
----
-
-### 🛰️ Projetos em Construção
-
-- Redesign Netflix *(publicado, em breve melhorado!)*
-- Portfólio pessoal com showcase de projetos (WIP) *(publicado no via Firebase Hosting)*
-- Sistema solar em C++ com OpenGL ☀️🪐
-
-> GitHub novo, mas com muito código na bagagem — fique de olho! 👀
+- ReactJS (hooks, SPA, componentização)
+- UI/UX Design + Interações Avançadas
+- Integração C++ com Electron
 
 ---
 
-### 🧠 Extras 
+### 🚧 Projetos Recentes e Futuros
 
-- ☕ **Viciado em café**
-- 💡 **Expert em programação competitiva usando C++**
-- 🧑‍🎨 Estudante de UI, UX e novas formas de interações digitais
+- 🎬 <a href="https://letrista.github.io/netflix" target="_blank">**Redesign Netflix**</a>  
+  Interface escura, refinada e responsiva com animações e estética fiel à plataforma.
+
+- 🌐 <a href="https://letristadev.web.app" target="_blank">**Portfólio pessoal**</a>  
+  Hospedado via Firebase — com showcase interativo, estilo minimalista e dark.
+
+- ☕ <a href="https://letrista.github.io/css-coffee-cup" target="_blank">**Xícara de Café 3D**</a>  
+  Com pires, vapor animado e lâmpada, simulando volume, sombra e reflexo com CSS puro.  
+
+- ☀️ **Sistema Solar 3D com OpenGL**  
+  Um projeto completo em C++ com visualização espacial realista.
+
+- 📱 **Simulador de Smartphone (ElectronJS)**  
+  Interface mobile interativa, com apps reais, bloqueio de tela, barra de notificações e mais.
+
+> GitHub novo, mas repleto de projetos criativos — sempre diferenciado! 👀
+
+---
+
+### 🧠 Extras
+
+- ☕ **Viciado em Café** — presente até nos meus projetos  
+- ⚔️ **Programador Competitivo** — expert em C++  
+- 🧑‍🎨 Estudante constante de UX e novas formas de interação digital  
 
 ---
 
