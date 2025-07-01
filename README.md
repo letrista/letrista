@@ -42,7 +42,7 @@ Apaixonado por performance, minimalismo e experiências digitais que realmente f
 - 🎬 <a href="https://letrista.github.io/netflix" target="_blank">**Redesign Netflix**</a>  
   Interface escura, refinada e responsiva com animações e estética fiel à plataforma.
 
-- 🌐 <a href="https://letristadev.web.app" target="_blank">**Portfólio pessoal**</a>  
+- 🌐 <a href="https://letristadev.web.app" target="_blank">**Portfólio Pessoal**</a>  
   Hospedado via Firebase — com showcase interativo, estilo minimalista e dark.
 
 - ☕ <a href="https://letrista.github.io/css-coffee-cup" target="_blank">**Xícara de Café 3D**</a>  
