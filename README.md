@@ -48,7 +48,7 @@ Apaixonado por performance, minimalismo e experiências digitais que realmente f
 - ☕ <a href="https://letrista.github.io/css-coffee-cup" target="_blank">**Xícara de Café 3D**</a>  
   Com pires, vapor animado e lâmpada, simulando volume, sombra e reflexo com CSS puro.  
 
-- ☀️ **Sistema Solar 3D com OpenGL**  
+- ☀️ <a href="https://github.com/letrista/solar-system" target="_blank">**Sistema Solar 3D com OpenGL**</a>  
   Um projeto completo em C++ com visualização espacial realista.
 
 - 📱 **Simulador de Smartphone (ElectronJS)**  
