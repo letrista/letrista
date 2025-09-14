@@ -1,112 +1,49 @@
-<div align="center">
+<p align="center">
+    ‹ Use o tema escuro do GitHub para visualizar o perfil adequadamente ›
+</p>
+<br>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/></a>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Olá%2C+tudo+bem%3F+Me+chamo+Letrista!;Seja+bem-vindo+(a)+ao+meu+perfil."/></a>
+<br>
+<p align="center">
+    <a href="https://letristadev.web.app"><img width="7%" alt="Website - Letrista" title="Website" src="https://i.imgur.com/eGQcBg7.png"/></a>
+</p>
 
-<h1>
-  <a href="https://letristadev.web.app" target="_blank">Jackson de Oliveira ☕</a>
-</h1>
+<br><br><br>
 
-<b>AKA Letrista</b> ・ Front-End Developer 💻 ・ Campinas, SP 🇧🇷
+```zsh
+> neofetch
+```
 
-<br/>
+<a href="#"><img align="left" src="https://i.imgur.com/gEkrz6t.jpeg" width="20%"/></a> 
 
-<img src="https://img.shields.io/badge/Coffee%20Lover-%23e3c09c?style=flat&logo=buymeacoffee&logoColor=black" alt="Coffee Lover" />
-<img src="https://img.shields.io/badge/Competitive%20Programmer-%2300599C?style=flat&logo=c&logoColor=white" alt="Competitive Programmer" />
-<img src="https://img.shields.io/badge/Ghost%20Coder-%23191919?style=flat&logo=ghost&logoColor=white" alt="Ghost Coder" />
+```lua
+Letrista@GitHub
+▔▔▔▔▔▔▔▔▔
+OS: Windows 11 x64
+Shell: Windows Terminal
+Location: Brasil, SP
+Learning: Java, POO, Django
+Languages: JavaScript, C++
+Hobbies: ☕ Café, WebDev, Programação Competitiva.
+```
 
-</div>
-
----
-
-<div align="center">
-
-### 🎩 Sobre Mim
-
-Sou <b>Jackson de Oliveira</b>, conhecido como <b>Letrista</b>, desenvolvedor Front-End apaixonado por interfaces elegantes e minimalistas.  
-Atualmente com quase <b>3 anos de experiência</b>, foco em <i>projetos modernos, responsivos e funcionais</i>, sempre buscando unir <b>design refinado</b> com <b>desempenho real</b>.
-
-</div>
-
----
-
-<div align="center">
-
-### ⚙️ Tech Stack
-
-<table>
-  <tr><td><b>🎨 Frontend:</b></td><td>HTML5 ・ CSS3 ・ JavaScript</td></tr>
-  <tr><td></td><td>TailwindCSS ・ Bootstrap ・ Figma</td></tr>
-  <tr><td><b>💾 DevTools:</b></td><td>Git ・ VSCode ・ Firebase</td></tr>
-  <tr><td><b>🧮 Performance:</b></td><td>C ・ C++ (Programação Competitiva)</td></tr>
-  <tr><td><b>🧪 Aprendizado:</b></td><td>ReactJS ・ ElectronJS ・ UX/UI Avançado</td></tr>
-</table>
-
-</div>
+<br><br>
 
 ---
 
-<div align="center">
+<br><br>
 
-### 🚀 Projetos em Destaque
+<p align="center"><strong>GitHub Status</strong></p>
 
-<table>
-  <tr>
-    <td>🎬</td>
-    <td><a href="https://letrista.github.io/netflix" target="_blank"><b>Redesign Netflix</b></a></td>
-    <td>Interface dark, refinada e responsiva, com animações e fidelidade estética.</td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td><a href="https://letristadev.web.app" target="_blank"><b>Portfólio Pessoal</b></a></td>
-    <td>Estilo minimalista e dark, hospedado no Firebase com showcase interativo.</td>
-  </tr>
-  <tr>
-    <td>☕</td>
-    <td><a href="https://letrista.github.io/css-coffee-cup" target="_blank"><b>Xícara de Café 3D</b></a></td>
-    <td>Puro CSS com vapor animado, pires e reflexos realistas.</td>
-  </tr>
-  <tr>
-    <td>☀️</td>
-    <td><a href="https://github.com/letrista/solar-system" target="_blank"><b>Sistema Solar OpenGL</b></a></td>
-    <td>Visualização espacial 3D em C++ com OpenGL.</td>
-  </tr>
-  <tr>
-    <td>📱</td>
-    <td><b>Simulador de Smartphone</b></td>
-    <td>Sistema completo com apps reais, tela de bloqueio e barra de notificações (ElectronJS).</td>
-  </tr>
-</table>
+| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> <p align="center"><a href="https://github.com/letrista/netflix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Letrista&repo=netflix&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&border_radius=0"/></a> <p align="center"><a href="https://github.com/Letrista/css-coffee-cup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Letrista&repo=css-coffee-cup&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&border_radius=0"/></a></p> | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Letrista&show_icons=true&hide_border=true&theme=transparent&border_radius=0&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=Letrista&hide_border=true&theme=transparent&background=000000&border_radius=0&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&locale=pt-BR&card_width=550"/></a>
+|--|--|
 
-<br/>
-
-<sub><i>💡 GitHub novo, mas cheio de projetos interessantes. Sempre diferenciado. 👀</i></sub>
-
-</div>
-
----
-
-<div align="center">
-
-### 🧠 Extras
-
-- ☕ <b>Viciado em Café</b> — Sempre presente nos projetos fictícios  
-- 🧠 <b>Programação Competitiva</b> — Base de eficiência e lógica com C++  
-- 🎨 <b>Estética Importa</b> — Interfaces com propósito, estética e emoção
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Contato
-
-<a href="mailto:jacksonndeoliveira@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Let's%20Talk-%20-%23191919?style=flat&logo=minutemailer&logoColor=white&labelColor=0b0b0b" />
+<br>
+<p align="center">
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=Letrista&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Letrista?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+</p>
+<a href="#">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
 </a>
-
-</div>
-
----
-
-<div align="center" style="color: gray;">
-  ⌨️ Crafted with focus, caffeine and <code>C++</code>
-</div>
